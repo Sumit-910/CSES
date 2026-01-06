@@ -1,0 +1,10 @@
+# Ignore compiled executables
+*.exe
+*.out
+a.out
+
+# Optional: build / bin folders
+bin/
+
+# VS Code
+.vscode/
